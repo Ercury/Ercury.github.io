@@ -1,12 +1,12 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "bdd.moc3",
+		"Moc": "bdd/bdd.moc3",
 		"Textures": [
-			"bdd.4096/texture_00.png"
+			"bdd/bdd.4096/texture_00.png"
 		],
-		"Physics": "bdd.physics3.json",
-		"DisplayInfo": "bdd.cdi3.json"
+		"Physics": "bdd/bdd.physics3.json",
+		"DisplayInfo": "bdd/bdd.cdi3.json"
 	},
 	"Groups": [
 		{
